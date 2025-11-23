@@ -1,1 +1,1 @@
-Helix, a novel hybrid optimizer that employs adaptive stability scheduling to dynamically balance sign and magnitude information during training.
+Helix is an innovative optimizer that applies adaptive stability scheduling to maintain a dynamic equilibrium between sign signals and magnitude cues as the model trains.
